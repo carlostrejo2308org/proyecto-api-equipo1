@@ -27,5 +27,5 @@ Se puede observar en test_book.py
 Se utilizo la función SetUp en las pruebas unitarias al principio, para levantar en enlace con la conexión a la api, para su posterior uso en la busqueda de id's.
 
 ## Diagrama de Flujo
-![Image text]("https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/DiagramaFlujoApi.png")
+![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/DiagramaFlujoApi.png)
 
