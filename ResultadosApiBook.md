@@ -33,7 +33,8 @@ Se puede observar en test_book.py
 Se utilizo la función SetUp en las pruebas unitarias al principio, para levantar en enlace con la conexión a la api, para su posterior uso en la busqueda de id's.
 
 ## Mock Mock
-
+En este ejemplo estamos mockeando el valor que retorna la funcion ExtraerElementos, podemos ver que el resultado siempre es el mismo por el mock, no importa el id que le estemos enviando.
+![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/MicrosoftTeams-image%20(2).png)
 ## Diagrama de Flujo
 ![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/DiagramaFlujoApi.png)
 
