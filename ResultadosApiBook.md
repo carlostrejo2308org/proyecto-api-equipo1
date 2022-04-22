@@ -35,6 +35,13 @@ Se utilizo la función SetUp en las pruebas unitarias al principio, para levanta
 ## Mock Mock
 En este ejemplo estamos mockeando el valor que retorna la funcion ExtraerElementos, podemos ver que el resultado siempre es el mismo por el mock, no importa el id que le estemos enviando.
 ![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/MicrosoftTeams-image%20(2).png)
+
+## Coverage alcanzado
+Medimos la covertura del lineas de código de nuestro programa y pruebas con la libreria de coverage, se adjuntan resultados:
+![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/MicrosoftTeams-image%20(3).png)
+![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/MicrosoftTeams-image%20(4).png)
+pd: Ayuda con el missing del main, no sabemos el porque 😞
+
 ## Diagrama de Flujo
 ![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/DiagramaFlujoApi.png)
 
