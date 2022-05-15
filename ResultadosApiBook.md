@@ -45,3 +45,5 @@ pd: Ayuda con el missing del main, no sabemos el porque 😞
 ## Diagrama de Flujo
 ![Image text](https://github.com/carlostrejo2308org/proyecto-api-equipo1/blob/main/images/DiagramaFlujoApi.png)
 
+## System testing
+En el archivo SystemTestingApi.xslx
