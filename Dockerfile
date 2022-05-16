@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements2.txt
 
 COPY . .
 
-CMD [ "python", "Interfaz.py" ]
+CMD [ "python", "book.py" ]

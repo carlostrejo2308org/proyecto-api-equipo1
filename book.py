@@ -37,3 +37,8 @@ class Book:
             return self.dictLibrosTres
         except:
             return "No Existe"
+
+if __name__ == "__main__":
+    libro = Book()
+    a = libro.ExtraerElementos("UpNHAQAAMAAJ")
+    print(a)
