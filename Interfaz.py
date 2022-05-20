@@ -47,6 +47,7 @@ class VentanaId:
             NumPaginas = Libros.get("pageCount")
             Categoria =Libros.get("categories")
             self.ShowInformation(self.master, Titulo, Subtitulo,Autor,Publicacion,FechaPublicacion,Descripcion,NumPaginas,Categoria)
+        return Libros
             
     def ShowInformation(self,master, titulo,subtitulo,autor,publicacion,fecha,descripcion,paginas,categoria):
         '''Funcion para nueva ventana que muestra el contenido si el Id existe'''
